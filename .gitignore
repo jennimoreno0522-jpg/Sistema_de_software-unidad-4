@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+coverage.xml
+*.cover
+*.lcov
+.hypothesis/
+
+# Environments
+.env
+.envrc
+.venv
+env/
+venv/
+ENV/
+
+# Editores y sistema
+.idea/
+.vscode/
+*.swp
+.DS_Store
+tempCodeRunnerFile.py
+
+# Logs generados por la aplicación durante su ejecución.
+/logs/
+
+# No se usan bases de datos ni archivos estáticos de servidor.
+*.sqlite3
+db.sqlite3-journal
+staticfiles/
+media/
