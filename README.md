@@ -1,9 +1,8 @@
 # Sistema Integral de Gestión de Clientes, Servicios y Reservas — Software FJ
 
-Proyecto en equipo (cinco integrantes) de la Fase 4 del curso **Programación (213023)** de la UNAD, Ingeniería de Sistemas.
-Aplicación de consola **orientada a objetos, sin motor de base de datos**, que gestiona clientes, servicios y reservas y continúa funcionando ante errores controlados.
+Proyecto en equipo (cinco integrantes) de la Fase 4 del curso 
+Aplicación de consola que gestiona clientes, servicios y reservas y continúa funcionando ante errores controlados.
 
-## Cumplimiento del Anexo 3
 
 | Requisito | Implementación |
 | --- | --- |
@@ -19,15 +18,6 @@ Aplicación de consola **orientada a objetos, sin motor de base de datos**, que 
 | Logs de eventos y errores | `sistema/logging_eventos.py` → `logs/sistema.log`. |
 | Simulación de operaciones | 22 operaciones válidas e inválidas en `sistema/demo.py` (mínimo exigido: 10). |
 
-## Integrantes
-
-| Integrante | Rol / módulo |
-| --- | --- |
-| _Nombre 1_ | _Completar_ |
-| _Nombre 2_ | _Completar_ |
-| _Nombre 3_ | _Completar_ |
-| _Nombre 4_ | _Completar_ |
-| _Nombre 5_ | _Completar_ |
 
 ## Estructura
 
